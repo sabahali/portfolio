@@ -67,7 +67,7 @@ export const projectsData = [
     title: "Symbol Academy Institute Website",
     description:
       "Institute website with dashboard and referral system",
-    tags: ["React", "Next.js","Next Auth", "MongoDB", "Tailwind","Framer","SWR","NodeMail", "Google Cloud APIs"],
+    tags: ["AWS Amplify", "Next.js","AWS Cloudformation", "AWS Services (Lambda,SES,SNS,SQS etc)", "Dynamo Db", "Tailwind","Framer","SWR", "Google APIs"],
     imageUrl: symbol,
   },
   {
