@@ -23,7 +23,8 @@
     "react-intersection-observer": "^9.13.0",
     "react-vertical-timeline-component": "^3.6.0",
     "resend": "^3.5.0",
-    "sharp": "^0.33.4"
+    "sharp": "^0.33.4",
+    "simple-icons": "^14.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
